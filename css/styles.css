@@ -1,0 +1,179 @@
+#title{
+    color: #fff;
+    background-color: #ff4c68;
+}
+
+.container{
+    padding: 7% 15%;
+}
+/* h1{
+    font-family: 'Montserrat', sans-serif;
+   font-size: 5rem;  
+   line-height: 1.5;  
+   font-weight: 900;
+} */
+
+#testimonials{
+    padding: 7% 15%;
+    background-color: #ef8172;
+}
+
+.carousel-title{
+    color: white;
+    font-family: 'Kalam', cursive;
+    padding-top: 3%;
+}
+
+
+.carousel-item{
+    padding: 7% 15%;
+    font-size: 15px;
+}
+#press {
+    background-color: #ef8172;
+    padding-bottom: 3%;
+  }
+
+.image{
+    width: 15%;
+}
+
+.profile{
+    border-radius: 50%;
+    text-align: center;
+    width: 30%;
+}
+
+
+
+#carouselExampleIndicators{
+    color: white;
+    text-align: center;
+    padding-bottom: 3%;
+}
+.text{
+    font-family: 'Montserrat', sans-serif;
+   font-size: 3.5rem;  
+   line-height: 1.5;  
+   font-weight: 900;
+}
+
+h3{
+    font-family: 'Montserrat', sans-serif;
+}
+
+p{
+    color: #8f8f8f;
+}
+
+.plan-pricing{
+
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+
+
+}
+.navbar-brand{
+    font-family: 'ubuntu';
+    font-weight: 900;
+    font-size: 60px;
+}
+
+
+.navbar-nav{
+    padding-bottom: 4.5rem;
+}
+
+.brand{
+    padding-bottom: 4.5rem;
+    text-decoration: none;
+    color: white;
+    font-family: "Ubuntu";
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+.brand:hover{
+    color: white;
+}
+
+.nav-item{
+    padding: 0 18px;
+}
+
+.nav-link{
+    font-size: 1.2rem;
+}
+
+.btn{
+    margin: 5% 3% 5% 0;
+
+}
+
+.title-image{
+    width: 60%;
+    transform: rotate(25deg);
+    
+}
+
+@media (max-width: 1028px)
+{
+
+    #title{
+        text-align: center;
+    }
+
+    .text{
+        font-size: 3rem;
+    }
+
+    .title-image{
+       position: static;
+       transform: rotate(0); 
+    }
+
+    .carousel-title{
+        font-size: 20px;
+    }
+
+    .plan-pricing{
+        font-size: 2rem;
+    }
+
+    .last-text{
+        font-size: 1.7rem;
+    }
+
+}
+
+#features{
+    padding: 7% 15%;
+}
+
+.features-box{
+    text-align: center;
+}
+
+.icon{
+    margin-bottom: 1rem;
+}
+
+#pricing {
+    padding: 100px 
+}
+
+#footer,#cta{
+    color: white;
+    background-color: Black;
+    padding: 7% 15%;
+    text-align:center;
+}
+
+.ifooter{
+    margin: 0 4px 0 4px;
+}
+
+.ifooter:hover{
+    color: grey;
+}
